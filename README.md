@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santiago
 - 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript && ReactJS
 
 
 <!---
