@@ -10,6 +10,7 @@
 
 ---
 
+Based in Barcelona, I am a guy who is always looking for new challenges, I come from the packaging and printing industry, but at the beginning of 2022 I decided to redirect my career towards front end programming, I am passionate about technology, applications and Web design.
 
 <!---
 BoccoSantiago/BoccoSantiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
