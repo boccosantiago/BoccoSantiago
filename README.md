@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Santiago
-- 👀 I’m a FrontEnd Development
+- 👀 I’m a FrontEnd Developer
 - 🌱 One does not simply stop learning JavaScript && ReactJS ⚛️
 
 ---
